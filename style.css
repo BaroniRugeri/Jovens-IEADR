@@ -1,0 +1,88 @@
+*{
+    font-family: 'Times New Roman', Times, serif;
+    font-size: 130%;
+    background-color: #5e2129;
+    color: white;
+}
+body {
+	font-family: 'Montserrat', sans-serif;
+}
+
+header {
+	background: #5e2129;
+	padding: 30px 0;
+}
+
+.Logo {
+	width: 10%;
+	margin: 0 auto;
+    background-color: #5e2129;
+}
+
+.titulo-principal {
+	text-align: center;
+	font-size: 2em;
+	margin: 0 0 1em;
+	clear: left;
+    background-color: #5e2129;
+}
+
+.principal {
+	padding: 3em 0;
+	background: #5e2129;
+	width: 940px;
+	margin: 0 auto;
+}
+
+.principal p {
+	margin: 0 0 1em;
+    background-color: #5e2129;
+}
+
+.principal strong {
+	font-weight: bold;
+    background-color: #5e2129
+}
+
+.principal em {
+	font-style: italic;
+    background-color: #5e2129
+}
+
+.geracao {
+	width: 60%;
+    margin-left: 18%;
+    padding: 20px;
+    background-color: #5e2129
+}
+.geracao p{
+    padding: 50%;
+    margin: 50%;
+    background-color: #5e2129
+}
+
+.titulo {
+	padding: 0;
+	background-color: #5e2129;
+    
+}
+
+.Lideres {
+	width: 640px;
+	margin: 0 auto;
+    align-content: center;
+    margin-left: 37%;
+}
+
+.sobre p {
+	margin: 0 0 2em;
+	text-align: center;
+    padding: 50px;
+}
+
+footer{
+    text-align: center;
+    padding: 40px;
+    background-color: #5e2129;
+    font-size: 120%;
+}
